@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Parthil -3D carousel</title>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="drag-container">
+  <div id="spin-container">
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jUe22aygsuuPh4vXWeoQdRiRx0mCl93Eeg&usqp=CAU" alt="">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAx_J3q0c1WujHOfswMyEIxyYqKDLOYonIQ&usqp=CAU"alt=""> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoQOdwYobAZIEROosk9TidruXFHxZ0CkNQw&usqp=CAU" alt="">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsH6TYa2jzn6vC_-kWs2Lnp7-jXeR7olUSOA&usqp=CAU" alt="">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5L1Zhgf-iUdhHiLWqWEJiZTujCFul5Mf_YYUO5xuUurhN0YikvInjndxao4ysvaTrz5M&usqp=CAU" alt="">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEckK1DOKl56kyrOgOpC3PQpnxoPmH8G01sQ&usqp=CAU" alt="">
+
+    <!-- Example image with link -->
+    <a target="_blank" href="">
+        <img src="" alt="">
+      </a>
+
+     <!-- Example add video  -->
+     <video controls autoplay="autoplay" loop>
+        <source src="https://mobstatus.com/wp-content/uploads/2022/11/Randall-Wahran-Ft.-Virat-Kohli-_-Virat-Kohli-WhatsApp-Status-_-T20-World-Cup-2022-Status720P_HD.mp4" type="video/mp4">
+      </video>
+     
+    <!-- Text at center of ground -->
+    <p>I Love Cricket From Parthil</p>
+  </div>
+  <div id="ground"></div>
+</div>
+
+<div id="music-container"></div>
+
+
+
+<!-- github corner (https://github.com/tholman/github-corners) -->
+<style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+<!-- partial -->
+ <script src="form.js"></script>
+
+</body>
+
+
